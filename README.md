@@ -2,6 +2,13 @@
 
 ### STEPS:
 ## How to run? 
+
+### git clone the repository
+
+```bash
+git clone https://github.com/mayankchugh-learning/Sentiment-Analyzer-Gadio-HuggingFace.git
+```
+
 ### STEP 01- Create a conda environment after opening the repository
 ```bash
 conda create -p sentimentanalyzerenv python -y
